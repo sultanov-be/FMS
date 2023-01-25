@@ -42,4 +42,14 @@
         <item name="android:textColor">@color/brand_70</item>
     </style>
 
+    <style name="MaterialButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="textAllCaps">false</item>
+        <item name="android:insetTop">@dimen/inset_button</item>
+        <item name="android:insetBottom">@dimen/inset_button</item>
+        <item name="fontFamily">@font/open_sans</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:lineSpacingExtra">@dimen/extra_spacing_5dp</item>
+        <item name="android:textSize">@dimen/text_size_16sp</item>
+    </style>
+
 </resources>

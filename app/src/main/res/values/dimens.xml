@@ -2,6 +2,8 @@
 <resources>
     <dimen name="inset_button">0dp</dimen>
 
+    <dimen name="btn_radius_6dp">6dp</dimen>
+
     <dimen name="extra_spacing_3dp">3dp</dimen>
     <dimen name="extra_spacing_5dp">5dp</dimen>
     <dimen name="extra_spacing_7dp">7dp</dimen>
